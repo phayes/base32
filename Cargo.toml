@@ -10,6 +10,7 @@ description = "Base32 encoder/decoder for Rust"
 [lib]
 
 name = "base32"
+path = "src/base32.rs"
 
 [dev-dependencies]
 quickcheck = "0.2.24"
